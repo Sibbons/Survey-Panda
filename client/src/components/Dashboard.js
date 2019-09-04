@@ -7,13 +7,15 @@ class Dashboard extends Component {
     render() {
         return (
             <div>
-                <SurveyList />
+                <h4>Below is a list of your surveys!</h4>
+                <p>To add credits Card Number: 4242 4242 4242 4242. Rest can be anything.</p>
+
                 <div className="fixed-action-btn">
                     <Link to="/surveys/new" className="btn-floating btn-large red">
                         <i className="material-icons">add</i>
                     </Link>
-
                 </div>
+                <SurveyList />
             </div>
         );
     }
