@@ -27,10 +27,12 @@ class Header extends Component {
                 <div className="nav-wrapper">
                     <Link
                         to={this.props.auth ? "/surveys" : "/"}
-                        className="left brand-logo"
-                    >
+                        className="left brand-logo" >
                         SurveyPanda
-          </Link>
+                    </Link>
+
+                    <ul className="right"><a href="https://github.com/Sibbons/Survey-Panda" target="_blank">Instructions</a></ul>
+
                     <ul className="right">{this.renderContent()}</ul>
                 </div>
             </nav >

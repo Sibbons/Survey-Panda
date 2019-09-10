@@ -19,6 +19,7 @@ class Payments extends Component {
                     Add Credits
                 </button>
             </StripeCheckout>
+
         );
     }
 }
