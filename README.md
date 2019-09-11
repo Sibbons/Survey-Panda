@@ -6,3 +6,5 @@ For recipients, you must seperate each email by a comma, spacing does not matter
 Once survey is created, there is a confirmatoon screen.
 After reviewing survey, hit send and wait for recipients to click an option on their email.
 Once the survey is sent out, it is on the dashboard with the amount of Yes and No. 
+Deployed using heroku 
+Website can eb found -> https://rocky-island-46767.herokuapp.com/
