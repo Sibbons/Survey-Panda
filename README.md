@@ -9,5 +9,6 @@ CVC any 3 digit combination <br/>
 # Tecnologies used
 React and Redux For client side <br/>
 Node Express and mongoDB for server side
-#Demo
+
+# Demo
 ![surveypanda](https://user-images.githubusercontent.com/45149376/67585747-10c8c100-f705-11e9-9ceb-7766ffb2e69b.gif)
